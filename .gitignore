@@ -18,8 +18,23 @@
 !/logs/empty
 
 # CakePHP 2
-
 /app/tmp/*
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+
+# MySQL данные (не коммитить!)
+cinema/mysql/database/sales.MYD
+cinema/mysql/database/sales.MYI
+cinema/mysql/ibdata1
+cinema/mysql/ib_logfile0
+cinema/mysql/ddl_recovery.log
+cinema/mysql/ibttmp1
+cinema/mysql/tc.log
+cinema/mysql/undo001
+cinema/mysql/undo002
+cinema/mysql/undo003
+cinema/mysql/ibtmp1
+
+# macOS
+.DS_Store
