@@ -35,6 +35,18 @@ cinema/mysql/undo001
 cinema/mysql/undo002
 cinema/mysql/undo003
 cinema/mysql/ibtmp1
+inema/mysql/aria_log.00000001
+cinema/mysql/aria_log_control
+cinema/mysql/ib_buffer_pool
+
+# WordPress core
+wp/wp-admin/
+wp/wp-includes/
+wp/wp-content/plugins/
+wp/wp-content/themes/
+wp/wp-content/uploads/
+wp/wp-content/languages/
+wp/wp-content/themes/
 
 # macOS
 .DS_Store
